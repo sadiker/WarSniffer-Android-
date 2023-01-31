@@ -8,10 +8,9 @@
 <img align="left" height="500" width="300" src="https://user-images.githubusercontent.com/121498198/215816279-1eaceca8-2155-4cc3-aaa5-3099c76392c1.jpeg"/>
 <img align="left" height="500" width="300" src="https://user-images.githubusercontent.com/121498198/215816269-7a21f28f-49e0-415f-a6c6-7a2d8856207a.jpeg"/>
 <img align="left" height="500" width="300" src="https://user-images.githubusercontent.com/121498198/215818469-69db629c-d066-4317-b35f-5144de7d6725.jpeg"/>
+Çalıştırmak için projeyi zip olarak indirin.
 
-1. Çalıştırmak için projeyi zip olarak indirin.
-
-2. Emülatörde veya apk dosyasını yükleyerek çalıştırın.
+Emülatörde veya apk dosyasını yükleyerek çalıştırın.
 
 
 
