@@ -9,6 +9,12 @@
 <img align="left" height="500" width="300" src="https://user-images.githubusercontent.com/121498198/215816269-7a21f28f-49e0-415f-a6c6-7a2d8856207a.jpeg"/>
 <img align="left" height="500" width="300" src="https://user-images.githubusercontent.com/121498198/215818469-69db629c-d066-4317-b35f-5144de7d6725.jpeg"/>
 
+1. Çalıştırmak için projeyi zip olarak indirin.
+
+2. Emülatörde veya apk dosyasını yükleyerek çalıştırın.
+
+
+
 
 
 
